@@ -1,6 +1,6 @@
 package com.assignment.kotlinmvvm.CommonService
 
-import android.arch.lifecycle.MutableLiveData
+import androidx.lifecycle.MutableLiveData
 import android.util.Log
 import com.assignment.kotlinmvvm.DataModel.Android
 import com.assignment.kotlinmvvm.interfaces.ApiInterface

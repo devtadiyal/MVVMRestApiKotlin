@@ -1,12 +1,12 @@
 package com.assignment.kotlinmvvm
 
-import android.arch.lifecycle.Observer
-import android.arch.lifecycle.ViewModelProviders
+import androidx.lifecycle.Observer
+import androidx.lifecycle.ViewModelProviders
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
-import android.support.v7.widget.LinearLayoutManager
 import android.util.Log
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.assignment.kotlinmvvm.DataModel.Android
 import com.assignment.kotlinmvvm.ViewModels.AndroidViewModel
 import com.assignment.kotlinmvvm.interfaces.ItemClickListener

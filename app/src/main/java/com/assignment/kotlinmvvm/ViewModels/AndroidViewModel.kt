@@ -1,7 +1,7 @@
 package com.assignment.kotlinmvvm.ViewModels
 
-import android.arch.lifecycle.MutableLiveData
-import android.arch.lifecycle.ViewModel
+import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.ViewModel
 import android.util.Log
 import com.assignment.kotlinmvvm.CommonService.RetrofitService
 import com.assignment.kotlinmvvm.DataModel.Android
